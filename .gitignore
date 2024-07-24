@@ -1,0 +1,4 @@
+*
+!.gitignore
+!generative_chemistry_with_safe.ipynb
+!8qtk_ligand.sdf
